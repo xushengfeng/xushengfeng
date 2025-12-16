@@ -8,6 +8,8 @@
 
 [shudu](https://github.com/xushengfeng/shudu) 数独，自动分支存档，方便探索试数，有简单策略提示
 
+[lime](https://github.com/xushengfeng/lime) 由大模型优化的拼音输入法
+
 系统应用
 
 [myde](https://github.com/xushengfeng/myde) 用Electron开发的Linux Wayland桌面，可以用前端技术自定义界面交互
