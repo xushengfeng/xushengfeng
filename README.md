@@ -12,21 +12,21 @@
 
 系统应用
 
-[myde](https://github.com/xushengfeng/myde) 用Electron开发的Linux Wayland桌面，可以用前端技术自定义界面交互
+[myde](https://github.com/xushengfeng/myde) 用 Electron 开发的 Linux Wayland 桌面，可以用前端技术自定义界面交互
 
-[aurora](https://github.com/xushengfeng/aurora) aur安装帮手，支持GitHub镜像，方便大陆网络环境使用
+[aurora](https://github.com/xushengfeng/aurora) aur 安装帮手，支持 GitHub 镜像，方便大陆网络环境使用
 
 观赏性的作品
 
 [x-lang](https://github.com/xushengfeng/x-lang) 低代码编辑器，可以渲染为魔法阵
 
-[https://github.com/xushengfeng/eSearch-website](https://github.com/xushengfeng/eSearch-website) eSearch的网站，无效滚动
+[https://github.com/xushengfeng/eSearch-website](https://github.com/xushengfeng/eSearch-website) eSearch 的网站，无限滚动
 
 一些方便的库
 
 [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于 paddleOCR 的 nodejs 库
 
-[https://github.com/xushengfeng/xtranslator](https://github.com/xushengfeng/xtranslator) 各平台翻译api聚合
+[https://github.com/xushengfeng/xtranslator](https://github.com/xushengfeng/xtranslator) 各平台翻译 api 聚合
 
 还有一堆项目建设中……
 
