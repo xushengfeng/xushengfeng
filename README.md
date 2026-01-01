@@ -20,13 +20,13 @@
 
 [x-lang](https://github.com/xushengfeng/x-lang) 低代码编辑器，可以渲染为魔法阵
 
-[https://github.com/xushengfeng/eSearch-website](https://github.com/xushengfeng/eSearch-website) eSearch 的网站，无限滚动
+[eSearch-website](https://github.com/xushengfeng/eSearch-website) eSearch 的网站，无限滚动
 
 一些方便的库
 
 [eSearch-OCR](https://github.com/xushengfeng/eSearch-OCR) 基于 paddleOCR 的 nodejs 库
 
-[https://github.com/xushengfeng/xtranslator](https://github.com/xushengfeng/xtranslator) 各平台翻译 api 聚合
+[xtranslator](https://github.com/xushengfeng/xtranslator) 各平台翻译 api 聚合
 
 还有一堆项目建设中……
 
